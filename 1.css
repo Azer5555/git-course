@@ -1,0 +1,36 @@
+h2{
+    margin: 31px;
+}
+footer{
+    margin-top: 93px;
+    height: -90px;
+    bottom: 0;
+    width: 100%;
+     padding: 10px;
+    left: 0;
+}
+@media (min-width: 769px) and (max-width: 5170px) {
+.footer
+{
+background-color:#f9f3f3;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
+}
+
+.my-photo{
+    margin-top: 91px;
+}
+
+button1{
+    padding: 8px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-size: 1em;
+    margin-top: 1%;
+    outline: none;
+   
+}
